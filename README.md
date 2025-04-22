@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋, I'm Phung Hao
 
 <!--
 **phunghao2903/phunghao2903** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
