@@ -33,3 +33,9 @@ Here are some ideas to get you started:
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ![GitHub Snake](https://github.com/phunghao2903/phunghao2903/blob/output/github-snake.svg)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/phunghao2903/phunghao2903/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/phunghao2903/phunghao2903/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/phunghao2903/phunghao2903/output/github-snake.svg" />
+</picture>
